@@ -33,4 +33,18 @@
 
 ## 正誤表
 
-まだありません。誤植など間違いを見つけた方は、japan@oreilly.co.jpまでお知らせください。
+下記の誤りがありました。お詫びして訂正いたします。
+
+本ページに掲載されていない誤植など間違いを見つけた方は、japan@oreilly.co.jpまでお知らせください。
+
+### 第1刷
+
+#### ■4章 P.138 4行目
+**誤**
+```
+https://github.com/toji/glmatrix
+```
+**正**
+```
+https://github.com/toji/gl-matrix
+```
