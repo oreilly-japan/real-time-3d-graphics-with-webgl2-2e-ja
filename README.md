@@ -48,3 +48,13 @@ https://github.com/toji/glmatrix
 ```
 https://github.com/toji/gl-matrix
 ```
+
+#### ■4章 P.138 下から10行目
+**誤**
+```
+（drawArraysやdrawElemebtsを呼び出して）
+```
+**正**
+```
+（drawArraysやdrawElementsを呼び出して）
+```
